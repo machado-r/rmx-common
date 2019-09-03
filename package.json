@@ -1,0 +1,19 @@
+{
+  "name": "rmx-common",
+  "version": "1.0.0",
+  "description": "personal common helper-components for react",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machado-r/rmx-common.git"
+  },
+  "author": "Rodrigo Machado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/machado-r/rmx-common/issues"
+  },
+  "homepage": "https://github.com/machado-r/rmx-common#readme"
+}
